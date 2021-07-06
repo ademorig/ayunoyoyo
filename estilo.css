@@ -1,0 +1,26 @@
+header {
+	
+	background:#F00000;
+}
+
+body {
+	
+	background:#404040;
+}
+
+.contenedor {
+	width:100%;
+	max-width:1000px;
+	margin:0 auto;
+	padding:20px;
+	float: left;
+	background:#ff9900;
+}
+
+.main {
+	width:70%;
+	max-width:1000px;
+	margin:0 auto;
+	overflow:hidden;
+	background:#ff8800;
+}
